@@ -1,0 +1,17 @@
+body {
+   font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+   text-align: center;
+   background-color: rgb(231, 231, 148); 
+   color: rgb(109, 11, 32);
+}
+
+li {
+    display: inline-block;
+    background-color: white;
+    border: 1px solid white;
+    padding: 3px;
+}
+
+#lasagna {
+    margin-left: -40px;
+}
